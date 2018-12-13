@@ -1,5 +1,5 @@
 # Udacity Linux Server Configuration Project
----
+
 ### Project Overview
      A baseline installation of a Linux server and prepare it to host your web applications.
      secure the server from a number of attack vectors,
