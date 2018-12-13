@@ -74,7 +74,7 @@ sudo su - grader
 - Save and exit the file .
 - Run `sudo service ssh restart` .
 
-## ** UFW Configuration **
+## **UFW Configuration**
 
 - First Close all incoming ports using `sudo ufw default deny all` .
 - Open all outgoing ports using `default allow outgoing` .
