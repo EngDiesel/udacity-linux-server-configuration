@@ -1,9 +1,9 @@
 # Udacity Linux Server Configuration Project
 
 ### Project Overview
-     A baseline installation of a Linux server and prepare it to host your web applications.
-     secure the server from a number of attack vectors,
-     install and configure a database server, and deploy [Catalog]() web applications onto it.
+> A baseline installation of a Linux server and prepare it to host your web applications.
+secure the server from a number of attack vectors,
+install and configure a database server, and deploy [Catalog](https://github.com/EngDiesel/Egyptian-Tourism-Catalog) web applications onto it.
 
 ### INFO
 - Server's Public IP: [18.197.254.112](18.197.254.112)
