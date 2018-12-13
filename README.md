@@ -44,7 +44,7 @@ and then add the following text
   grader ALL=(ALL:ALL) ALL
 ```
 
-## **Setup SSH Keys for _grader_ **
+## **Setup SSH Keys for _grader_**
 - on the local machine run
 ```bash
 ssh-keygen
@@ -65,7 +65,7 @@ sudo su - grader
   sudo chmod 644 .ssh/authorized_keys
 ```
 
-## ** Change The Default SSH Port to 2200 **
+## **Change The Default SSH Port to 2200**
 - Open the configuration file `sudo nano /etc/ssh/sshd_config` .
 - Edit the file so now
   - `Port 2200` instead of `Port 22`.
