@@ -7,7 +7,9 @@ install and configure a database server, and deploy [Catalog](https://github.com
 
 ### INFO
 - Server's Public IP: [18.197.254.112](18.197.254.112)
+- URL: http://18.197.254.112.nip.io
 - SSH Port: 2200
+- Grader User Password: **-grader-**
 
 ## **Update the Packages on the Server.**
 ```shell
